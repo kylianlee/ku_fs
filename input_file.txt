@@ -1,6 +1,6 @@
-Aa w 20
-KU w 8192
-Aa r 10
-Aa r 10
-Ab d
-Aa d
+aa w 49152
+ab d
+ab r 123
+aa r 23
+ab r 12312312
+aa r 25
