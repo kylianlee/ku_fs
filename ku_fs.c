@@ -148,6 +148,8 @@ void delete(char* fileName){
     if(entityIdx == -1)
         printf("No such file\n");
     ((Entity*)(dBlock + entityIdx * 4))->inum = 0;
+    ((Entity*)(dBlock + entityIdx * 4))->fName[0] = 0;
+    ((Entity*)(dBlock + entityIdx * 4))->fName[1] = 0;
 }
 
 char getEntityIdx(){
