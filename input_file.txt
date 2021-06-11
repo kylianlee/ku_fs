@@ -1,6 +1,7 @@
-aa w 49152
-ab d
-ab r 123
-aa r 23
-ab r 12312312
-aa r 25
+KU w 1024
+Aa w 10
+Aa r 10
+Ab r 10
+KU r 30
+Ab d
+Aa d
